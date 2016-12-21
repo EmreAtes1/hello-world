@@ -2,6 +2,6 @@ package gitEinstieg;
 
 public class HalloWelt_1
 {
-	public void spielenEmre() {}
+	public void spielenEmre1() {}
 
 }
